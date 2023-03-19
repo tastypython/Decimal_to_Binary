@@ -1,7 +1,7 @@
 # Decimal_to_Binary
 
 Ask the user for a number
-write a program to convert it to binary, use only those things that you have been taught till now.
+write a program to convert it to binary, use only those things that you have been taught till now. number should be between 1 and 100
 Display the number in binary and close the program gracefully.
 If the user does not give an input, generate a random number and convert to binaRY.
 
